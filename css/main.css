@@ -411,7 +411,7 @@ ul li .sign-in i {
 
 .card-slack img {
     width: 100px;
-    height: 100px;
+    height: auto;
     margin: 10px 0;
 }
 
